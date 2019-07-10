@@ -1,0 +1,23 @@
+This study repository is used for studying different languages.
+
+Repository folder Structure:
+----------------------------
+
+        study
+          |
+          |----- c
+          |
+	  |----- cpp
+          |
+          |----- python
+          |
+          |----- ...
+
+c: 	contains C programs
+cpp: 	contains cpp programs
+pyton: 	contains python programs
+...: 	anyother programming language
+
+Note: every programming laguage folder will have README explaining about study items and programmes written.
+
+
