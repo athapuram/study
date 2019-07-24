@@ -1,0 +1,15 @@
+covered:
+- streamio: cout, cin
+- comments: /**/ or //
+- namespace: separation of scope 
+- operator orverloading: example "cout <<" whener << is used for directing
+  stream to io, where are in  " 0X0F << 4", mean left shift 0xoF by 4 bits.
+- function overloading & default values: in C++ we can have same function names
+  with different signatures (i.e., arugmnets passed to it). those arguments can
+also be assigned default values in case argument is not pass when fucntion is
+called.
+- REFERENCES: in c++ we use & infront of data type to mark that as reference to
+  that variables. (eg: int& a) here we are telling its reference to an integer
+variable.
+-const -
+- Object oriented language: 
